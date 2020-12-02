@@ -3,6 +3,11 @@
    linking to external resources instead of including content in-line.
    See 'release/text/readme.html' for the end user read-me.
 
+About this fork
+---------------
+This fork is to support higher bit-depth for the depth buffer, allowing very large scene to works without too many visual glitches in EEVEE; such as 1/1 scale solar system model, with human-made probs.
+It is expected to be unstable.
+Fork by Lucie Morillon (Quesbe / UnBonhommeQSB)
 
 Blender
 =======
